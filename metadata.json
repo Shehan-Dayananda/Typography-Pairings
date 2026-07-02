@@ -1,0 +1,6 @@
+{
+  "name": "Planet Explorer",
+  "description": "An immersive landing page for exploring planets with a cinematic full-screen space video background and a detailed 3D interactive rocket engine propulsion lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
